@@ -264,7 +264,7 @@ form {
 }
 
 .delete-button:hover svg {
-  fill: var(--danger);
+  fill: var(--accent);
   opacity: 1;
   transform: scale(1.05);
 }
